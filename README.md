@@ -1,4 +1,4 @@
-**Continous Learning track**
+**Continous Learning & skill upgrade details**
 
 Job Simulations Programs
 
